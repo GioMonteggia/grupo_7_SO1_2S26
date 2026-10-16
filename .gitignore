@@ -1,0 +1,30 @@
+# Archivos de fuentes comprimidas
+*.tar
+*.tar.gz
+*.tar.xz
+*.tar.bz2
+*.tgz
+
+# Imágenes de discos y máquinas virtuales
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.qcow2
+*.iso
+*.img
+
+# Credenciales y claves privadas
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+*.p12
+*.pfx
+
+# Archivos temporales
+*.tmp
+*.swp
+*~
